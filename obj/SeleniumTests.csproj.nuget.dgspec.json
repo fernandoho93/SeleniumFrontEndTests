@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Selenium Front End Tests\\SeleniumTests\\SeleniumTests.csproj": {}
+    "C:\\Selenium Front End Tests\\seleniumtests\\SeleniumTests.csproj": {}
   },
   "projects": {
-    "C:\\Selenium Front End Tests\\SeleniumTests\\SeleniumTests.csproj": {
+    "C:\\Selenium Front End Tests\\seleniumtests\\SeleniumTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Selenium Front End Tests\\SeleniumTests\\SeleniumTests.csproj",
+        "projectUniqueName": "C:\\Selenium Front End Tests\\seleniumtests\\SeleniumTests.csproj",
         "projectName": "SeleniumTests",
-        "projectPath": "C:\\Selenium Front End Tests\\SeleniumTests\\SeleniumTests.csproj",
+        "projectPath": "C:\\Selenium Front End Tests\\seleniumtests\\SeleniumTests.csproj",
         "packagesPath": "C:\\Users\\Fernando Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Selenium Front End Tests\\SeleniumTests\\obj\\",
+        "outputPath": "C:\\Selenium Front End Tests\\seleniumtests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
